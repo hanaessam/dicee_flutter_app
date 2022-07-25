@@ -4,4 +4,4 @@ A random dice generator app.
 
 ## App Overview
 
-![](https://drive.google.com/file/d/1x4Iq5Ig1yBYUW2GBXMXPwSkDn27HcEaS/view?usp=sharing)
+![Dicee_readme](https://user-images.githubusercontent.com/81986017/180691822-a74a7374-7426-4689-b75b-f89fbdcc84ea.gif)
